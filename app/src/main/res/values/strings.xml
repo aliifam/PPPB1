@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">week6</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="action_settings">Settings</string>
+    <string name="tab_label_1">Tab Label 1</string>
+    <string name="tab_label_2">Tab Label 2</string>
+    <string name="tab_label_3">Tab Label 3</string>
+</resources>
