@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Hotel Santika",
+    "price": "Rp. 1.500.000",
+    "description": "Hotel santika ini bagus sekali bikin tidur nyenyak apalagi namanya santika, legenda banget cabangnya dimana - mana juga jadi oke banget untuk keluarga.",
+    "image": "img_1",
+    "fasilitas": [
+      "kasur empuk",
+      "bantal goni",
+      "taman bermain",
+      "food court",
+      "dll."
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Hotel Melati",
+    "price": "Rp. 1.200.000",
+    "description": "Hotel Melati ini bagus sekali bikin tidur nyenyak kayak kebo",
+    "image": "img_2",
+    "fasilitas": [
+      "kasur springbed",
+      "wifi lanjay",
+      "sarapan berbayar"
+    ]
+  },
+  {
+    "id": "3",
+    "name": "Hotel Horizon",
+    "price": "Rp. 2.500.000",
+    "description": "Hotel Horizon ini bagus sekali cocok untuk bulan madu",
+    "image": "img_3",
+    "fasilitas": [
+      "double bed",
+      "bedcover",
+      "alat bermain",
+      "wifi lancar jaya",
+      "makan gratis"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Hotel Red Doorz",
+    "price": "Rp. 300.000",
+    "description": "Hotel Red Doorz ini bagus sekali bikin tidur nyenyak dan harganya sangat terjangkau",
+    "image": "img_4",
+    "fasilitas": [
+      "kasur keras",
+      "bantal paha",
+      "aqua gratis",
+      "aplikasi mobile"
+    ]
+  },
+  {
+    "id": "5",
+    "name": "Hotel OYO",
+    "price": "Rp. 300.000",
+    "description": "Hotel OYO ini bagus sekali dan kerap kali disambungkan dengan hal negatif, tapi ini cocok untuk kalian yang mau berhemat",
+    "image": "img_5",
+    "fasilitas": [
+      "Aplikasi Mobile",
+      "Parkiran luas",
+      "kasur goyang",
+      "TV kresek kresek"
+    ]
+  },
+  {
+    "id": "6",
+    "name": "Hotel Indonesia",
+    "price": "Rp. 3000.000",
+    "description": "Hotel Indonesia ini bagus sekali bikin tidur nyenyak, sampai akhirnya gak sadar lagi mimpi nginep di hotel ini padahal cuma mimpi",
+    "image": "img_6",
+    "fasilitas": [
+      "dekat pusat kota",
+      "view untuk SG",
+      "AC dingin",
+      "Makan gratis",
+      "Layanan pijit"
+    ]
+  }
+]
