@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">sharpref</string>
+    <string name="clear">clear</string>
+    <string name="retrieve">retrieve</string>
+    <string name="save">save</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+</resources>
