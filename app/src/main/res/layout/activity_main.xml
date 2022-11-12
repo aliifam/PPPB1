@@ -31,4 +31,16 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/show_notification" />
+
+    <Button
+        android:id="@+id/update"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/update_notification" />
+
+    <Button
+        android:id="@+id/cancel"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cancel_notification" />
 </LinearLayout>

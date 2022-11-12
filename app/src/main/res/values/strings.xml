@@ -3,4 +3,8 @@
     <string name="notification_title">Notification Title</string>
     <string name="notification_description">Notification Description</string>
     <string name="show_notification">Show Notification</string>
+    <string name="update_notification">Update Notification</string>
+    <string name="cancel_notification">Cancel Notification</string>
+    <string name="learn_more">learn more</string>
+    <string name="notification_updated">notification updated</string>
 </resources>
