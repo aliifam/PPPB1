@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">week12</string>
+    <string name="add_data">add data</string>
+    <string name="no_data">No Data</string>
+    <string name="empty_data">empty_data</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="program_studi">Program Studi</string>
+    <string name="alamat_domisili">Alamat Domisili</string>
+    <string name="add_mahasiswa">Add Mahasiswa</string>
+    <string name="update_mahasiswa">Update Mahasiswa</string>
+    <string name="delete_mahasiswa">Delete Mahasiswa</string>
+    <string name="delete_all">Delete All</string>
+
+    <string-array name="jenis_kelamin">
+        <item>Cowo</item>
+        <item>Cewe</item>
+    </string-array>
+
+    <string-array name="Prodi">
+        <item>Teknik Informatika</item>
+        <item>Teknik Elektro</item>
+        <item>Sastra Indonesia</item>
+        <item>Teknologi Rekayasa Perangkat Lunak</item>
+        <item>Teknologi Rekayasa Internet</item>
+        <item>Teknologi Rekayasa Elektro</item>
+        <item>Teknologi Rekayasa Instrumentasi Kontrol</item>
+    </string-array>
+</resources>
