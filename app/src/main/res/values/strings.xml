@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">crudfb</string>
+    <string name="tambah_data">tambah data</string>
+    <string name="nama_mahasiswa">Nama Mahasiswa</string>
+    <string name="mata_kuliah">Mata Kuliah</string>
+    <string name="add_data">Add Data</string>
+</resources>
