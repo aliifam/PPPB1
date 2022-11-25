@@ -6,6 +6,11 @@ public class Model {
     private String matkul;
     private String key;
 
+    public Model()
+    {
+
+    }
+
     public Model(String nama, String matkul) {
         this.nama = nama;
         this.matkul = matkul;
