@@ -1,5 +1,6 @@
 package com.aliif.crudfb;
 
+import android.annotation.SuppressLint;
 import android.app.Dialog;
 import android.os.Bundle;
 import android.view.LayoutInflater;
@@ -32,19 +33,21 @@ public class EditForm extends DialogFragment {
     }
 
     TextView tnama, tmatkul;
-    Button button;
+    Button edit_button;
 
+    @SuppressLint("SetTextI18n")
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
         final View view = inflater.inflate(R.layout.activity_add, container, false);
         tnama = view.findViewById(R.id.input_nama);
         tmatkul = view.findViewById(R.id.input_matkul);
-        button = view.findViewById(R.id.add_button);
+        edit_button = view.findViewById(R.id.add_data);
 
         tnama.setText(nama);
         tmatkul.setText(matkul);
-        button.setOnClickListener(new View.OnClickListener() {
+        edit_button.setText("Edit Data");
+        edit_button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
                 String nama = tnama.getText().toString();
